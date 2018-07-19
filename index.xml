@@ -6,9 +6,19 @@
     <description>Recent content on shoili_blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 18 Jul 2018 14:32:29 -0400</lastBuildDate>
     
 	<atom:link href="https://shoili.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Masters of Analytics at Georgia Tech</title>
+      <link>https://shoili.github.io/2018/07/18/masters-of-analytics-at-georgia-tech/</link>
+      <pubDate>Wed, 18 Jul 2018 14:32:29 -0400</pubDate>
+      
+      <guid>https://shoili.github.io/2018/07/18/masters-of-analytics-at-georgia-tech/</guid>
+      <description>Every year for the last couple of years, I have got a few LinkedIn inmails and a few DMs on Reddit asking about the Georgia Tech Masters in Analytics aka MSA program. Now I am not one of those people who believe that you must have a Masters degree to do Data Science but a Masters program is definitely one way to learn things. There&amp;rsquo;s several of these programs out there now and it&amp;rsquo;s hard to choose, which is largely why people reach out to me about it so I&amp;rsquo;m going to write down some of my thoughts about program - the pros and cons.</description>
+    </item>
     
   </channel>
 </rss>
