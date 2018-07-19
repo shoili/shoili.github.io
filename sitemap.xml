@@ -3,23 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shoili.github.io/about/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+    <loc>/2018/07/18/masters-of-analytics-at-georgia-tech/</loc>
+    <lastmod>2018-07-18T14:32:29-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shoili.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shoili.github.io/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+    <loc>/tags/data-science/</loc>
+    <lastmod>2018-07-18T14:32:29-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shoili.github.io/tags/</loc>
+    <loc>/</loc>
+    <lastmod>2018-07-18T14:32:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/georgia-tech/</loc>
+    <lastmod>2018-07-18T14:32:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2018-07-18T14:32:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2018-07-18T14:32:29-04:00</lastmod>
     <priority>0</priority>
   </url>
   
