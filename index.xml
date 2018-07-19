@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data and Meta-Data things</title>
+    <title>shoili_blog</title>
     <link>https://shoili.github.io/</link>
-    <description>Recent content on Data and Meta-Data things</description>
+    <description>Recent content on shoili_blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
